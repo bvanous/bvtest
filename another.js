@@ -1,4 +1,4 @@
-// BV TEST FOOFOOFOO
+// BV TEST FOOFOOFOO - another.js
 
 // Photon Webhooks Integration
 //
